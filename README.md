@@ -27,6 +27,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Magic-Forces/Magic-Forces/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Magic-Forces/Magic-Forces/tree/output/snake.svg" alt="Snake animation" />
 
 ###
