@@ -28,4 +28,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Magic-Forces/Magic-Forces/output/snake.svg" alt="Snake animation" />
+<a href="https://github.com/Magic-Forces"><img src="https://raw.githubusercontent.com/Magic-Forces/Magic-Forces/output/snake.svg" alt="Snake animation" /></a>
