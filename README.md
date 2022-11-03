@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm MagicForces</h1>
-- 🔭 I’m currently working on <a href="https://github.com/Magic-Forces/Arduino-alarm" target="_blank">Arduino-alarm</a>
+
+<h2>🔭 I’m currently working on <a href="https://github.com/Magic-Forces/Arduino-alarm" target="_blank">Arduino-alarm</a></h2>
 
 ###
 
