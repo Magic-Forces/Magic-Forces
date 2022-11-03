@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm MagicForces</h1>
 
-<h3>🔭 I’m currently working on <a href="https://github.com/Magic-Forces/Arduino-alarm" target="_blank">Arduino-alarm</a></h3>
+<h3>🔭 I’m currently working on <a href="https://github.com/Magic-Forces/Arduino-alarm" target="_blank">Arduino-alarm</a> and <a href="https://github.com/Magic-Forces/Weather-station" target="_blank">Weather-station</a></h3>
 
-# <h2 align="left">Languages, Tools and Hobbies:</h2>
+# <h2 align="left">Languages and Tools:</h2>
 <div align="left">
   <a href="https://github.com/Magic-Forces"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" width="42" alt="arduino logo"  /></a>
   <a href="https://github.com/Magic-Forces"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  /></a>
