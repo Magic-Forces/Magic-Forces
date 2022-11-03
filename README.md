@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MagicForces</h1>
 
-<h2>🔭 I’m currently working on <a href="https://github.com/Magic-Forces/Arduino-alarm" target="_blank">Arduino-alarm</a></h2>
+<h3>🔭 I’m currently working on <a href="https://github.com/Magic-Forces/Arduino-alarm" target="_blank">Arduino-alarm</a></h3>
 
 ###
 
@@ -10,7 +10,7 @@
 </div>
 
 ###
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="30" width="42" alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
