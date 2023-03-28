@@ -38,7 +38,7 @@
 
 <hr>
 
-<h2> 🐍 Awesome snake for attention</h2>
+<h2> 🐍 Awesome snake for attention:</h2>
 <div align="center">
 <p>
 	<img src="https://raw.githubusercontent.com/Magic-Forces/Magic-Forces/output/snake.svg" alt="Awesome Snake for Attention">
