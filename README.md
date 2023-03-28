@@ -1,35 +1,48 @@
-<h1 align="center">Hi 👋, I'm MagicForces</h1>
+<div align="center">
+<h1>Hi 👋, I'm MagicForces</h1>
+</div>
 
----
+<h2>💻 Tech Stack:</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
+<img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
+</div>
 
-## Languages and Tools
-<a href="https://github.com/Magic-Forces">
-    <div align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" height="30" width="42" alt="arduino logo">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" width="42" alt="python logo">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" height="30" width="42" alt="html5 logo">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" height="30" width="42" alt="css3 logo">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="30" width="42" alt="ubuntu logo">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" height="30" width="42" alt="ubuntu logo">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" height="30" width="42" alt="raspberrypi logo">
-    </div>
-</a>
+<hr>
 
-## My Stats
-<a href="https://github.com/Magic-Forces">
-    <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&card_width=500&theme=gruvbox&locale=en&hide_border=false&username=Magic-Forces" height="150" alt="stats graph">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=254.725786&langs_count=5&theme=gruvbox&hide_border=false&username=Magic-Forces" height="150" alt="languages graph">
-    </div>
-</a>
+<h2>📊 GitHub Stats:</h2>
+<div align="center">
+<p>
+	<img src="https://github-readme-stats.vercel.app/api?username=magic-forces&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=magic-forces&theme=merko&hide_border=false" alt="GitHub Streak Stats" height="150">
+</p>
+<p>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magic-forces&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages Stats"height=height="150">
+</p>
+</div>
 
-## Awesome snake for attention
-<a href="https://github.com/Magic-Forces">
-    <div align="center">
-        <img src="https://raw.githubusercontent.com/Magic-Forces/Magic-Forces/output/snake.svg" alt="Snake animation" />
-    </div>
-</a>
+<hr>
+
+<h2> 🐍 Awesome snake for attention</h2>
+<div align="center">
+<p>
+	<img src="https://raw.githubusercontent.com/Magic-Forces/Magic-Forces/output/snake.svg" alt="Awesome Snake for Attention">
+</p>
+</div>
