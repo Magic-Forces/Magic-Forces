@@ -32,8 +32,6 @@
 <p>
 	<img src="https://github-readme-stats.vercel.app/api?username=magic-forces&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=magic-forces&theme=merko&hide_border=false" alt="GitHub Streak Stats" height="150">
-</p>
-<p>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magic-forces&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages Stats"height=height="150">
 </p>
 </div>
