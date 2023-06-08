@@ -1,9 +1,6 @@
 <div align="center">
 <h1>Hi 👋, I'm MagicForces</h1>
 </div>
-🔭 I'm currently working on better-vulcan
-<br>
-🌱 I'm currently learning react
 
 <hr>
 
