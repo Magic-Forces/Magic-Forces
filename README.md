@@ -36,6 +36,6 @@
 <h2> 🐍 Awesome snake for attention:</h2>
 <div align="center">
 <p>
-	<img src="https://raw.githubusercontent.com/Magic-Forces/Magic-Forces/output/snake.svg" alt="Awesome Snake for Attention">
+	<img src="https://raw.githubusercontent.com/Magic-Forces/Magic-Forces/output/github-contribution-grid-snake-dark.svg" alt="Awesome Snake for Attention">
 </p>
 </div>
