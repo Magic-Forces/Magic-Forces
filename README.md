@@ -1,4 +1,4 @@
-# Hi 👋, I'm MagicForces
+# Hi 👋, I'm Magic-Forces
 
 # 💻 Tech Stack:
 
